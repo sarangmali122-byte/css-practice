@@ -1,0 +1,32 @@
+
+#box {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+.heading {
+    color: red;
+}
+
+
+
+.external {
+    color: green;
+}
+
+
+
+.paragraph {
+    color: blue;
+}
+
+#para {
+    color: red;
+}
+
+
+* {
+    color: blue;
+}

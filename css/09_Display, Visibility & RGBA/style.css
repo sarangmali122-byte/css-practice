@@ -1,0 +1,51 @@
+
+.block {
+    display: block;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+}
+
+
+.inline {
+    display: inline;
+    background-color: blue;
+    color: white;
+}
+
+
+
+.inline-block {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+
+
+.none {
+    display: none;
+}
+
+
+.hidden {
+    visibility: hidden;
+    background-color: yellow;
+    height: 50px;
+}
+
+
+
+.visible {
+    visibility: visible;
+    background-color: pink;
+    height: 50px;
+}
+
+
+.rgba {
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 250px;
+    height: 100px;
+}

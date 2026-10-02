@@ -1,0 +1,29 @@
+
+.rgb-blue {
+    color: rgb(0, 0, 255);
+}
+
+.rgb-red {
+    color: rgb(255, 0, 0);
+}
+
+.rgb-green {
+    color: rgb(0, 255, 0);
+}
+
+
+
+
+
+
+.hex-red {
+    color: #ff0000;
+}
+
+.hex-green {
+    color: #00ff00;
+}
+
+.hex-blue {
+    color: #0000ff;
+}

@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(4);
+    transition-delay: 2s;
+
+}
+
+
+div:hover{
+    background-color: bisque;
+}

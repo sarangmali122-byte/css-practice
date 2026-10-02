@@ -1,0 +1,22 @@
+header {
+    height: 200px;
+    background-color: red;
+    opacity: 0.5;
+    border: 2px solid black;
+}
+
+
+main {
+    height: 500px;
+    background-color: blue;
+    opacity: 0.5;
+    border: 2px solid black;
+}
+
+
+footer {
+    height: 200px;
+    background-color: green;
+    opacity: 0.5;
+    border: 2px solid black;
+}

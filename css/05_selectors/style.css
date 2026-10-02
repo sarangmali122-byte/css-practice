@@ -1,0 +1,25 @@
+
+* {
+    font-family: Arial;
+}
+
+
+h2 {
+    color: hotpink;
+}
+
+
+#myId {
+    color: blanchedalmond;
+}
+
+
+.myClass {
+    color: gray;
+}
+
+
+#first, #second {
+    background-color: blueviolet;
+}
+

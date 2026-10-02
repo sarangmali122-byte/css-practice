@@ -1,0 +1,46 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+
+.outer {
+    width: 400px;
+    height: 300px;
+    background-color: lightblue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+
+
+.boxes {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.boxes div {
+    width: 80px;
+    height: 80px;
+    background-color: lightgreen;
+}
+
+.special {
+    align-self: flex-start;
+}

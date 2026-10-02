@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    transition-property: all;
+    transition-duration: 0s;
+    transition-timing-function: ease-in;
+    
+}
+
+div:hover{
+    background-color: red;
+    transform: scale(1,2);
+    transform: translate(20px);
+    transform: skew(30deg);
+}

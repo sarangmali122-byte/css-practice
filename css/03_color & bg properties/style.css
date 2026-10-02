@@ -1,0 +1,20 @@
+p {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+}
+
+h1 {
+    background-color: red;
+}
+
+div {
+    background-color: pink;
+    color: white;
+}

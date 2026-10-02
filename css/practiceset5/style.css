@@ -1,0 +1,39 @@
+.parent {
+    width: 400px;
+    height: 100px;
+    background-color: lightgray;
+}
+
+.child {
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+    color: white;
+}
+
+
+html {
+    font-size: 20px;
+}
+
+.rem-box {
+    font-size: 2rem;
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+.em-box {
+    font-size: 2em;
+    background-color: orange;
+    color: black;
+    padding: 10px;
+}
+
+
+.screen {
+    height: 50vh;
+    width: 100vw;
+    background-color: purple;
+    color: white;
+}

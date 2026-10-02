@@ -1,0 +1,45 @@
+.small {
+    font-size: 12px;
+}
+
+.medium {
+    font-size: 20px;
+}
+
+.large {
+    font-size: 30px;
+}
+
+
+.px {
+    font-size: 25px;
+}
+
+.pt {
+    font-size: 20pt;
+}
+
+.line1 {
+    line-height: 1;
+}
+
+.line15 {
+    line-height: 1.5;
+}
+
+.line2 {
+    line-height: 2;
+}
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}

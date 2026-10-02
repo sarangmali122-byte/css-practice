@@ -1,0 +1,23 @@
+.overflow {
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    overflow: scroll;
+}
+
+
+.float-box {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+.clear-box {
+    clear: both;
+    background-color: lightgreen;
+    padding: 20px;
+}

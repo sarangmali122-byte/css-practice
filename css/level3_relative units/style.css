@@ -1,0 +1,46 @@
+.parent {
+    width: 400px;
+    height: 100px;
+    background-color: lightgray;
+}
+
+.percentage {
+    width: 50%;
+    height: 100%;
+    background-color: hotpink;
+    color: white;
+}
+
+
+.em-box {
+    font-size: 2em;
+    background-color: saddlebrown;
+    color: white;
+}
+
+
+
+html {
+    font-size: 20px;
+}
+
+.rem-box {
+    font-size: 2rem;
+    background-color: beige;
+    color: white;
+}
+
+
+
+.vh-box {
+    height: 50vh;
+    background-color:gray;
+}
+
+
+
+.vw-box {
+    width: 100vw;
+    background-color: purple;
+    color: white;
+}
